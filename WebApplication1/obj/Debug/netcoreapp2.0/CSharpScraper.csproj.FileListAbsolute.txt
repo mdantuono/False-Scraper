@@ -17,8 +17,8 @@ C:\Users\mikei\source\repos\CSharpScraper\WebApplication1\bin\Debug\netcoreapp2.
 C:\Users\mikei\source\repos\CSharpScraper\WebApplication1\bin\Debug\netcoreapp2.0\CSharpScraper.pdb
 C:\Users\mikei\source\repos\CSharpScraper\WebApplication1\obj\Debug\netcoreapp2.0\CSharpScraper.csprojAssemblyReference.cache
 C:\Users\mikei\source\repos\CSharpScraper\WebApplication1\obj\Debug\netcoreapp2.0\CSharpScraper.csproj.CoreCompileInputs.cache
-C:\Users\mikei\source\repos\CSharpScraper\WebApplication1\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
 C:\Users\mikei\source\repos\CSharpScraper\WebApplication1\obj\Debug\netcoreapp2.0\CSharpScraper.AssemblyInfoInputs.cache
 C:\Users\mikei\source\repos\CSharpScraper\WebApplication1\obj\Debug\netcoreapp2.0\CSharpScraper.AssemblyInfo.cs
 C:\Users\mikei\source\repos\CSharpScraper\WebApplication1\obj\Debug\netcoreapp2.0\CSharpScraper.dll
 C:\Users\mikei\source\repos\CSharpScraper\WebApplication1\obj\Debug\netcoreapp2.0\CSharpScraper.pdb
+C:\Users\mikei\source\repos\CSharpScraper\WebApplication1\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
