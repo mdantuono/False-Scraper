@@ -64,5 +64,6 @@ namespace WebApplication1
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
         }
+
     }
 }

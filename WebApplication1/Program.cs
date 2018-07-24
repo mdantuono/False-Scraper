@@ -25,12 +25,11 @@ namespace WebApplication1
                 .UseStartup<Startup>()
                 .Build();
 
-        public void Scrape()
+        public void Scrape(object sender, EventArgs e)
         {
-            {
                 // Try running it headless (--headless) in ChromeOptions
-                //var chromeOptions = new ChromeOptions();
-                //chromeOptions.AddArgument("--headless");
+                //ChromeOptions options = new ChromeOptions();
+                //options.AddArgument("--headless");
 
                 // Initiate new ChromeDriver called driver and navigate to login URL
                 IWebDriver driver = new ChromeDriver(".");
@@ -73,8 +72,6 @@ namespace WebApplication1
                 }
 
                 Console.WriteLine("\nI gotchu fam.\n");
-
-            }
         }
     }
 }
